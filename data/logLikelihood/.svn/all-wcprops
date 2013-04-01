@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/64/trunk/CorrLDA1/src/zico/Ml/train
+END
+tags.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/trunk/CorrLDA1/src/zico/Ml/train/tags.dat
+END
+movies.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/64/trunk/CorrLDA1/src/zico/Ml/train/movies.dat
+END
+userwithmovies.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/64/trunk/CorrLDA1/src/zico/Ml/train/userwithmovies.dat
+END
